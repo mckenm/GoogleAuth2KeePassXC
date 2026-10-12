@@ -22,5 +22,5 @@ First release.
 - `README.md` with step-by-step migration instructions and `.gitignore` entries that keep CSV, URI and image output out of version control.
 - MIT `LICENSE`.
 
-[Unreleased]: https://github.com/<your-username>/GoogleAuth2KeePassXC/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/<your-username>/GoogleAuth2KeePassXC/releases/tag/v0.1.0
+[Unreleased]: https://github.com/mckenm/GoogleAuth2KeePassXC/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/mckenm/GoogleAuth2KeePassXC/releases/tag/v0.1.0

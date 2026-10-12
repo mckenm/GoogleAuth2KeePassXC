@@ -28,7 +28,7 @@ Skip OpenCV if you pass the `otpauth-migration://` text instead of an image.
 There is nothing to install. Clone the repo (or download `gauth2keepassxc.py`) and run it:
 
 ```bash
-git clone https://github.com/<your-username>/GoogleAuth2KeePassXC.git
+git clone https://github.com/mckenm/GoogleAuth2KeePassXC.git
 cd GoogleAuth2KeePassXC
 python gauth2keepassxc.py --version
 ```
