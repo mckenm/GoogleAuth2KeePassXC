@@ -1,0 +1,25 @@
+# Output and inputs of this tool contain plaintext 2FA secrets: never commit them.
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+*.tif
+*.tiff
+export*.txt
+uris*.txt
+otp*.txt
+*.kdbx
+
+# ...except the fake examples, which use public test secrets.
+!examples/
+!examples/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/

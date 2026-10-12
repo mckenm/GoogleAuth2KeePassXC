@@ -1,0 +1,2 @@
+# Fake Google Authenticator export made from public test secrets. Safe to share.
+otpauth-migration://offline?data=CjgKFDEyMzQ1Njc4OTAxMjM0NTY3ODkwEhFhbGljZUBleGFtcGxlLmNvbRoHRXhhbXBsZSABKAEwAgosCgpIZWxsbyHerb7vEg9ib2JAZXhhbXBsZS5vcmcaB0RlbW8gQ28gASgBMAIQARgBIAAoBw%3D%3D
